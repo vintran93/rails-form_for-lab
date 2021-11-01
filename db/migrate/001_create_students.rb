@@ -8,3 +8,5 @@ class CreateStudents < ActiveRecord::Migration
     end
   end
 end
+
+#rails generate migration create_school_classes
